@@ -72,6 +72,8 @@ Gồm 7 bước thực hiện tuần hoàn:
 * **Xuất:** `output <tên biến> [<hằng>]`, `print`, `write` (Lưu đồ: Hình bình hành).
 * **Xử lý:** `<biểu thức gán>`, `set <biểu thức gán>`, `compute`, `calculate` (Lưu đồ: Hình chữ nhật).
 * **Điều hướng:** (Lưu đồ: Các mũi tên nối).
+<img width="1362" height="787" alt="image" src="https://github.com/user-attachments/assets/1529c006-1294-4623-9ff0-3c0bf2b7ff8b" />
+
 
 ![alt text](image-4.png)
 ---
