@@ -64,7 +64,7 @@ Gồm 7 bước thực hiện tuần hoàn:
 * **Lưu đồ / Sơ đồ khối (flowchart):**
   * Thể hiện logic chương trình dạng hình ảnh với các hình khối và mũi tên.
   * Giúp logic chương trình được trực quan hóa, dễ theo dõi và phân tích.
-
+  
 ### **1/ TỪ KHÓA VÀ KÝ HIỆU (Mã giả - Lưu đồ)**
 * **Bắt đầu, kết thúc:** `start`, `stop`, `begin`, `end` (Lưu đồ: Hình oval).
 * **Khai báo, khởi tạo biến:** `declarations`, `<kiểu> <tên biến>` (Lưu đồ: Hình chữ nhật hoặc biểu tượng chuẩn bị).
@@ -73,6 +73,7 @@ Gồm 7 bước thực hiện tuần hoàn:
 * **Xử lý:** `<biểu thức gán>`, `set <biểu thức gán>`, `compute`, `calculate` (Lưu đồ: Hình chữ nhật).
 * **Điều hướng:** (Lưu đồ: Các mũi tên nối).
 
+![alt text](image-4.png)
 ---
 
 ## **VI. MÔI TRƯỜNG LẬP TRÌNH VÀ NGƯỜI DÙNG**
